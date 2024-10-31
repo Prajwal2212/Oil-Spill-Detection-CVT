@@ -6,7 +6,7 @@ This project applies deep learning to detect and segment oil spills in satellite
 Clone the repository using git:
 ```bash
 git clone https://github.com/Prajwal2212/Oil-Spill-Detection-CVT.git
-cd oil-spill-detection
+cd Oil-Spill-Detection-CVT
 ```
 
 ## Dataset
